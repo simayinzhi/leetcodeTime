@@ -1,0 +1,10 @@
+.idea
+.idea/*
+*.iml
+gen
+target
+.DS_Store
+.log
+/bin/
+*.pid
+
